@@ -12,10 +12,10 @@
 | Name | Student ID | Workstream |
 |---|---|---|
 | Rohit Krishnan | S4116077 | Excel Copilot Skill Library |
-| Ngoc Anh Thu Nguyen | — | PowerPoint Copilot Skill Library |
-| Kaavyaa Raju Murugan | — | Prompt Library |
-| Evita Mary D Silva | — | Prompt Library |
-| Kirthan Radhakrishnan | — | AI Events Playbook |
+| Ngoc Anh Thu Nguyen | S3912314  | PowerPoint Copilot Skill Library |
+| Kaavyaa Raju Murugan | S4134222 | Prompt Library |
+| Evita Mary D Silva | S4152128 | Prompt Library |
+| Kirthan Radhakrishnan | S4141224 | AI Events Playbook |
 
 ---
 
@@ -37,17 +37,7 @@ medibank-ai-enablement-toolkit/
 **Owner:** Rohit Krishnan  
 9 custom Microsoft 365 Copilot skills for Medibank's core Excel analytical workflows. Each skill is a SKILL.md file deployable to OneDrive and invokable via @mention in Copilot.
 
-| Skill | @mention | Core Function |
-|---|---|---|
-| Anomaly Detector | @anomaly-detector | Z-score, IQR, Benford's Law, peer-group, temporal detection |
-| Data Validator | @data-validator | APRA/AIHW validation; 7 rule categories; Quality Score ≥ 95% |
-| Chronic Disease Cost Modeller | @chronic-disease-cost-modeller | 5-year BaU vs Managed Care DCF; NPV, IRR |
-| QoQ Trend Analyser | @qoq-trend-analyser | Quarter-on-quarter KPI trend; 3-tier significance |
-| Member LTV Calculator | @member-lifetime-value-calculator | DCF-based MLV; behavioural churn only; community rating safe |
-| Provider Payment Reconciler | @provider-payment-reconciler | Billing vs payment reconciliation; 5 variance types |
-| Hospital Gap Fee Analyser | @hospital-gap-fee-analyser | Gap Fee analysis; member OOP flagging |
-| Workforce Productivity Tracker | @workforce-productivity-tracker | 3-tier Copilot adoption; ROI; Shadow IT log |
-| Regulatory Submission Checker | @regulatory-submission-checker | APRA PHI quarterly return validation; 4-party sign-off |
+
 
 **Deployment path:** `Documents/Copilot/Microsoft Excel/skills/<skill-folder>/SKILL.md`
 
